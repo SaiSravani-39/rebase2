@@ -1,5 +1,5 @@
-This is Rebase file 
+This is a Rebase file 
 trying to understand it
-hope now i vl get it
+hope now I vl get it
 this is the lst try
-i think im getting this
+I think Im getting this
